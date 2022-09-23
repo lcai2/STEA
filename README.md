@@ -20,10 +20,9 @@ python main.py
 We refer to the code of RREA. Thanks for their great contributions!
 # Citation
 If you use this model or code, please cite it as follows:  
-@inproceedings{STEA,  
+@inproceedings{STEA2022,  
   author    = {Li Cai, Xin Mao, Meirong Ma, Hao Yuan, Jianchao Zhu, Man Lan},  
   title     = {A Simple Temporal Information Matching Mechanism for Entity Alignment Between Temporal Knowledge Graphs},  
   booktitle = {COLLING},  
   year      = {2022}，  
-  pages     = {},  
 }
