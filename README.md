@@ -1,5 +1,5 @@
 # STEA
-Code for COLING2022 paper “A Simple Temporal Information Matching Mechanism for Entity Alignment Between Temporal Knowledge Graphs”
+Code for COLING2022 paper [“A Simple Temporal Information Matching Mechanism for Entity Alignment Between Temporal Knowledge Graphs”](https://arxiv.org/abs/2209.09677).
 # Datasets
 The datasets are from [TEA-GNN](https://github.com/soledad921/TEA-GNN).  
 ent_ids_1: ids for entities in source KG;  
