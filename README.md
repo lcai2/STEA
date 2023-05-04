@@ -13,7 +13,7 @@ sup_pairs + ref_pairs: entity alignments
 Anaconda>=4.5.11  
 Python>=3.7.11  
 pytorch>=1.10.1  
-# Usage:
+# Usage
 Use the following command:  
 python main.py
 # Acknowledgement
