@@ -24,6 +24,6 @@ If you use this model or code, please cite it as follows:
   author    = {Li Cai and Xin Mao and Meirong Ma and Hao Yuan and Jianchao Zhu and Man Lan},  
   title     = {A Simple Temporal Information Matching Mechanism for Entity Alignment Between Temporal Knowledge Graphs},  
   booktitle = {Proceedings of the 29th International Conference on Computational Linguistics},  
-  pages={2075--2086},
-  year      = {2022}，  
+  pages     = {2075--2086},  
+  year      = {2022}, 
 }
