@@ -16,9 +16,9 @@ pytorch>=1.10.1
 # Usage
 Use the following command:  
 python main.py  
-Before conducting unsupervised experiments, you need to run "get_unsup_seeds.py" to obtain unsupervised seeds.
-The obtained unsupervised seed file--"*.npy" is stored in the "simt" folder in the corresponding dataset folder.
-And the parameter "unsupervise"o need to be set to "True" in the "args.py". 
+Before conducting unsupervised experiments, you need to run "get_unsup_seeds.py" to obtain unsupervised seeds.  
+The obtained unsupervised seed file--"*.npy" is stored in the "simt" folder in the corresponding dataset folder.  
+You also need to set the parameter "unsupervise" to "True" in the "args.py". 
 # Acknowledgement
 We refer to the code of RREA. Thanks for their great contributions!
 # Citation
